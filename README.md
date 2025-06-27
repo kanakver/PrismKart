@@ -14,7 +14,7 @@ A responsive, interactive product listing page for the PrismKart e-commerce demo
 ![Screenshot](image.png)
 
 ## Live Demo
-[View Live](https://primkart.vercel.app/)
+[View Live](https://prism-kart-oqh9.vercel.app/)
 
 ## How to Run
 1. Download or clone this repository.
